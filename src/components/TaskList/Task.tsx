@@ -1,5 +1,3 @@
-// import des icones-composants de react-feather
-// on a installé le package avec la commande 'pnpm i react-feather'
 import { Trash2, Edit, Check } from 'react-feather';
 import { useState } from 'react';
 
